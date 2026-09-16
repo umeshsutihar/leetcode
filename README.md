@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/umeshsutihar/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/umeshsutihar/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/umeshsutihar/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/umeshsutihar/leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/umeshsutihar/leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/umeshsutihar/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/umeshsutihar/leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/umeshsutihar/leetcode/tree/master/0143-reorder-list) |
+| [0682-baseball-game](https://github.com/umeshsutihar/leetcode/tree/master/0682-baseball-game) |
 | [1472-design-browser-history](https://github.com/umeshsutihar/leetcode/tree/master/1472-design-browser-history) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/umeshsutihar/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Doubly-Linked List
@@ -169,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/umeshsutihar/leetcode/tree/master/0002-add-two-numbers) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/umeshsutihar/leetcode/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
