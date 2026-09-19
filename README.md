@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/umeshsutihar/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/umeshsutihar/leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/umeshsutihar/leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/umeshsutihar/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/umeshsutihar/leetcode/tree/master/0242-valid-anagram) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/umeshsutihar/leetcode/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/umeshsutihar/leetcode/tree/master/0143-reorder-list) |
 | [0682-baseball-game](https://github.com/umeshsutihar/leetcode/tree/master/0682-baseball-game) |
 | [1472-design-browser-history](https://github.com/umeshsutihar/leetcode/tree/master/1472-design-browser-history) |
@@ -175,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/umeshsutihar/leetcode/tree/master/0682-baseball-game) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/umeshsutihar/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
