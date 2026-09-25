@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/umeshsutihar/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/umeshsutihar/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/umeshsutihar/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/umeshsutihar/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/umeshsutihar/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/umeshsutihar/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/umeshsutihar/leetcode/tree/master/0594-longest-harmonious-subsequence) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/umeshsutihar/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/umeshsutihar/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/umeshsutihar/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/umeshsutihar/leetcode/tree/master/0268-missing-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/umeshsutihar/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/umeshsutihar/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sorting
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/umeshsutihar/leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/umeshsutihar/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/umeshsutihar/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/umeshsutihar/leetcode/tree/master/0268-missing-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/umeshsutihar/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 ## Sliding Window
 |  |
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/umeshsutihar/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/umeshsutihar/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/umeshsutihar/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/umeshsutihar/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/umeshsutihar/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/umeshsutihar/leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/umeshsutihar/leetcode/tree/master/0875-koko-eating-bananas) |
@@ -166,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/umeshsutihar/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/umeshsutihar/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
 |  |
@@ -175,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/umeshsutihar/leetcode/tree/master/0002-add-two-numbers) |
+| [0268-missing-number](https://github.com/umeshsutihar/leetcode/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
