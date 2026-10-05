@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/umeshsutihar/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1472-design-browser-history](https://github.com/umeshsutihar/leetcode/tree/master/1472-design-browser-history) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/umeshsutihar/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2965-find-missing-and-repeated-values](https://github.com/umeshsutihar/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/umeshsutihar/leetcode/tree/master/0268-missing-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/umeshsutihar/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/umeshsutihar/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2965-find-missing-and-repeated-values](https://github.com/umeshsutihar/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Sorting
 |  |
 | ------- |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/umeshsutihar/leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/umeshsutihar/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [2965-find-missing-and-repeated-values](https://github.com/umeshsutihar/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Linked List
 |  |
 | ------- |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/umeshsutihar/leetcode/tree/master/0002-add-two-numbers) |
 | [0268-missing-number](https://github.com/umeshsutihar/leetcode/tree/master/0268-missing-number) |
+| [2965-find-missing-and-repeated-values](https://github.com/umeshsutihar/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Simulation
 |  |
 | ------- |
