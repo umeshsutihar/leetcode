@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/umeshsutihar/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/umeshsutihar/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/umeshsutihar/leetcode/tree/master/0049-group-anagrams) |
+| [0138-copy-list-with-random-pointer](https://github.com/umeshsutihar/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/umeshsutihar/leetcode/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/umeshsutihar/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/umeshsutihar/leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/umeshsutihar/leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/umeshsutihar/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/umeshsutihar/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0138-copy-list-with-random-pointer](https://github.com/umeshsutihar/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/umeshsutihar/leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/umeshsutihar/leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/umeshsutihar/leetcode/tree/master/0206-reverse-linked-list) |
