@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/umeshsutihar/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/umeshsutihar/leetcode/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/umeshsutihar/leetcode/tree/main/0541-reverse-string-ii/) | Easy |
+| [0796-rotate-string](https://github.com/umeshsutihar/leetcode/tree/main/0796-rotate-string/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -329,4 +330,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/umeshsutihar/leetcode/tree/main/0204-count-primes/) | Medium |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/umeshsutihar/leetcode/tree/main/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
