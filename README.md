@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/umeshsutihar/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/umeshsutihar/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1472-design-browser-history](https://github.com/umeshsutihar/leetcode/tree/master/1472-design-browser-history) |
+| [2040-kth-smallest-product-of-two-sorted-arrays](https://github.com/umeshsutihar/leetcode/tree/main/2040-kth-smallest-product-of-two-sorted-arrays/) | Hard |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/umeshsutihar/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/umeshsutihar/leetcode/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/umeshsutihar/leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/umeshsutihar/leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/umeshsutihar/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/umeshsutihar/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [2040-kth-smallest-product-of-two-sorted-arrays](https://github.com/umeshsutihar/leetcode/tree/main/2040-kth-smallest-product-of-two-sorted-arrays/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
