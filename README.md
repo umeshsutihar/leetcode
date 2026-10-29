@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/umeshsutihar/leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/umeshsutihar/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/umeshsutihar/leetcode/tree/main/0050-powx-n/) | Medium |
 | [0143-reorder-list](https://github.com/umeshsutihar/leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/umeshsutihar/leetcode/tree/master/0206-reverse-linked-list) |
 ## Design
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/umeshsutihar/leetcode/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/umeshsutihar/leetcode/tree/main/0050-powx-n/) | Medium |
 | [0204-count-primes](https://github.com/umeshsutihar/leetcode/tree/main/0204-count-primes/) | Medium |
 | [0268-missing-number](https://github.com/umeshsutihar/leetcode/tree/master/0268-missing-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/umeshsutihar/leetcode/tree/master/2965-find-missing-and-repeated-values) |
