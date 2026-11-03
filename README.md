@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/umeshsutihar/leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/umeshsutihar/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/umeshsutihar/leetcode/tree/main/0035-search-insert-position/) | Easy |
+| [0037-sudoku-solver](https://github.com/umeshsutihar/leetcode/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/umeshsutihar/leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0049-group-anagrams](https://github.com/umeshsutihar/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/umeshsutihar/leetcode/tree/master/0053-maximum-subarray) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0001-two-sum](https://github.com/umeshsutihar/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/umeshsutihar/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0037-sudoku-solver](https://github.com/umeshsutihar/leetcode/tree/main/0037-sudoku-solver/) | Hard |
 | [0049-group-anagrams](https://github.com/umeshsutihar/leetcode/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/umeshsutihar/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/umeshsutihar/leetcode/tree/master/0138-copy-list-with-random-pointer) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/umeshsutihar/leetcode/tree/main/0037-sudoku-solver/) | Hard |
 | [0054-spiral-matrix](https://github.com/umeshsutihar/leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/umeshsutihar/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/umeshsutihar/leetcode/tree/main/0079-word-search/) | Medium |
@@ -365,6 +368,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/umeshsutihar/leetcode/tree/main/0022-generate-parentheses/) | Medium |
+| [0037-sudoku-solver](https://github.com/umeshsutihar/leetcode/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/umeshsutihar/leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0079-word-search](https://github.com/umeshsutihar/leetcode/tree/main/0079-word-search/) | Medium |
+## Algorithm X
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0037-sudoku-solver](https://github.com/umeshsutihar/leetcode/tree/main/0037-sudoku-solver/) | Hard |
+## Dancing Links
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0037-sudoku-solver](https://github.com/umeshsutihar/leetcode/tree/main/0037-sudoku-solver/) | Hard |
 <!---LeetCode Topics End-->
