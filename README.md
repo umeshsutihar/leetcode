@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/umeshsutihar/leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0143-reorder-list](https://github.com/umeshsutihar/leetcode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/umeshsutihar/leetcode/tree/main/0148-sort-list/) | Medium |
+| [0203-remove-linked-list-elements](https://github.com/umeshsutihar/leetcode/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/umeshsutihar/leetcode/tree/master/0206-reverse-linked-list) |
 | [0707-design-linked-list](https://github.com/umeshsutihar/leetcode/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/umeshsutihar/leetcode/tree/master/0876-middle-of-the-linked-list) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/umeshsutihar/leetcode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0050-powx-n](https://github.com/umeshsutihar/leetcode/tree/main/0050-powx-n/) | Medium |
 | [0143-reorder-list](https://github.com/umeshsutihar/leetcode/tree/master/0143-reorder-list) |
+| [0203-remove-linked-list-elements](https://github.com/umeshsutihar/leetcode/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/umeshsutihar/leetcode/tree/master/0206-reverse-linked-list) |
 ## Design
 | Problem Name | Difficulty |
