@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/umeshsutihar/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/umeshsutihar/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/umeshsutihar/leetcode/tree/master/0268-missing-number) |
+| [0424-longest-repeating-character-replacement](https://github.com/umeshsutihar/leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/umeshsutihar/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/umeshsutihar/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/umeshsutihar/leetcode/tree/master/2588-count-the-number-of-beautiful-subarrays) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/umeshsutihar/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/umeshsutihar/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/umeshsutihar/leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/umeshsutihar/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/umeshsutihar/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/umeshsutihar/leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/umeshsutihar/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/umeshsutihar/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/umeshsutihar/leetcode/tree/master/0344-reverse-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/umeshsutihar/leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0541-reverse-string-ii](https://github.com/umeshsutihar/leetcode/tree/main/0541-reverse-string-ii/) | Easy |
 | [0796-rotate-string](https://github.com/umeshsutihar/leetcode/tree/main/0796-rotate-string/) | Easy |
 ## Prefix Sum
