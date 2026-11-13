@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/umeshsutihar/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/umeshsutihar/leetcode/tree/main/0037-sudoku-solver/) | Hard |
 | [0049-group-anagrams](https://github.com/umeshsutihar/leetcode/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/umeshsutihar/leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/umeshsutihar/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/umeshsutihar/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/umeshsutihar/leetcode/tree/master/0141-linked-list-cycle) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/umeshsutihar/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/umeshsutihar/leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0219-contains-duplicate-ii](https://github.com/umeshsutihar/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/umeshsutihar/leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/umeshsutihar/leetcode/tree/master/0594-longest-harmonious-subsequence) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/umeshsutihar/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/umeshsutihar/leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0049-group-anagrams](https://github.com/umeshsutihar/leetcode/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/umeshsutihar/leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0079-word-search](https://github.com/umeshsutihar/leetcode/tree/main/0079-word-search/) | Medium |
 | [0125-valid-palindrome](https://github.com/umeshsutihar/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/umeshsutihar/leetcode/tree/master/0242-valid-anagram) |
