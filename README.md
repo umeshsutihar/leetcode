@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0155-min-stack](https://github.com/umeshsutihar/leetcode/tree/master/0155-min-stack) |
 | [0707-design-linked-list](https://github.com/umeshsutihar/leetcode/tree/master/0707-design-linked-list) |
+| [0901-online-stock-span](https://github.com/umeshsutihar/leetcode/tree/main/0901-online-stock-span/) | Medium |
 | [1472-design-browser-history](https://github.com/umeshsutihar/leetcode/tree/master/1472-design-browser-history) |
 ## Stack
 | Problem Name | Difficulty |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/umeshsutihar/leetcode/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/umeshsutihar/leetcode/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/umeshsutihar/leetcode/tree/master/0682-baseball-game) |
+| [0901-online-stock-span](https://github.com/umeshsutihar/leetcode/tree/main/0901-online-stock-span/) | Medium |
 | [1472-design-browser-history](https://github.com/umeshsutihar/leetcode/tree/master/1472-design-browser-history) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/umeshsutihar/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Doubly-Linked List
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0901-online-stock-span](https://github.com/umeshsutihar/leetcode/tree/main/0901-online-stock-span/) | Medium |
 | [1472-design-browser-history](https://github.com/umeshsutihar/leetcode/tree/master/1472-design-browser-history) |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
@@ -405,4 +408,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/umeshsutihar/leetcode/tree/main/0037-sudoku-solver/) | Hard |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0901-online-stock-span](https://github.com/umeshsutihar/leetcode/tree/main/0901-online-stock-span/) | Medium |
 <!---LeetCode Topics End-->
