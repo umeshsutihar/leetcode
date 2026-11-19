@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/umeshsutihar/leetcode/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/umeshsutihar/leetcode/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [2040-kth-smallest-product-of-two-sorted-arrays](https://github.com/umeshsutihar/leetcode/tree/main/2040-kth-smallest-product-of-two-sorted-arrays/) | Hard |
+| [2402-meeting-rooms-iii](https://github.com/umeshsutihar/leetcode/tree/main/2402-meeting-rooms-iii/) | Hard |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/umeshsutihar/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/umeshsutihar/leetcode/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/umeshsutihar/leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/umeshsutihar/leetcode/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/umeshsutihar/leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/umeshsutihar/leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [2402-meeting-rooms-iii](https://github.com/umeshsutihar/leetcode/tree/main/2402-meeting-rooms-iii/) | Hard |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/umeshsutihar/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/umeshsutihar/leetcode/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/umeshsutihar/leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/umeshsutihar/leetcode/tree/master/0268-missing-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/umeshsutihar/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/umeshsutihar/leetcode/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
+| [2402-meeting-rooms-iii](https://github.com/umeshsutihar/leetcode/tree/main/2402-meeting-rooms-iii/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -286,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/umeshsutihar/leetcode/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/umeshsutihar/leetcode/tree/master/0682-baseball-game) |
+| [2402-meeting-rooms-iii](https://github.com/umeshsutihar/leetcode/tree/main/2402-meeting-rooms-iii/) | Hard |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -412,4 +416,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0901-online-stock-span](https://github.com/umeshsutihar/leetcode/tree/main/0901-online-stock-span/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2402-meeting-rooms-iii](https://github.com/umeshsutihar/leetcode/tree/main/2402-meeting-rooms-iii/) | Hard |
 <!---LeetCode Topics End-->
