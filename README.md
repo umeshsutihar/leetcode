@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/umeshsutihar/leetcode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/umeshsutihar/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/umeshsutihar/leetcode/tree/master/0118-pascals-triangle) |
+| [0130-surrounded-regions](https://github.com/umeshsutihar/leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/umeshsutihar/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/umeshsutihar/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/umeshsutihar/leetcode/tree/main/0200-number-of-islands/) | Medium |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/umeshsutihar/leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/umeshsutihar/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/umeshsutihar/leetcode/tree/main/0079-word-search/) | Medium |
+| [0130-surrounded-regions](https://github.com/umeshsutihar/leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/umeshsutihar/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/umeshsutihar/leetcode/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/umeshsutihar/leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/umeshsutihar/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/umeshsutihar/leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/umeshsutihar/leetcode/tree/master/0110-balanced-binary-tree) |
+| [0130-surrounded-regions](https://github.com/umeshsutihar/leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/umeshsutihar/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/umeshsutihar/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/umeshsutihar/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
@@ -383,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/umeshsutihar/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0130-surrounded-regions](https://github.com/umeshsutihar/leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/umeshsutihar/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/umeshsutihar/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/umeshsutihar/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
@@ -437,5 +441,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0130-surrounded-regions](https://github.com/umeshsutihar/leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/umeshsutihar/leetcode/tree/main/0200-number-of-islands/) | Medium |
 <!---LeetCode Topics End-->
