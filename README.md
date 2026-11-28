@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/umeshsutihar/leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/umeshsutihar/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/umeshsutihar/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/umeshsutihar/leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/umeshsutihar/leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1472-design-browser-history](https://github.com/umeshsutihar/leetcode/tree/master/1472-design-browser-history) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/umeshsutihar/leetcode/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/umeshsutihar/leetcode/tree/main/0079-word-search/) | Medium |
 | [0130-surrounded-regions](https://github.com/umeshsutihar/leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/umeshsutihar/leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [1091-shortest-path-in-binary-matrix](https://github.com/umeshsutihar/leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/umeshsutihar/leetcode/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/umeshsutihar/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Linked List
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/umeshsutihar/leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0226-invert-binary-tree](https://github.com/umeshsutihar/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/umeshsutihar/leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [1091-shortest-path-in-binary-matrix](https://github.com/umeshsutihar/leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
